@@ -282,11 +282,7 @@ k9-x1/
 
 ---
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 <div align="center">
 
