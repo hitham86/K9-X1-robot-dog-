@@ -272,15 +272,6 @@ k9-x1/
 
 ---
 
-## 📸 Build Gallery
-
-> *Add your photos here!*
-
-| Chassis Assembly | Electronics | Walking Demo |
-|:---:|:---:|:---:|
-| ![chassis](images/chassis.jpg) | ![electronics](images/electronics.jpg) | ![walking](images/walking.gif) |
-
----
 
 
 
